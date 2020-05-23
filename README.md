@@ -1,6 +1,6 @@
 # Copter Crash
 
-![picutre](/src/images/copter-home.png)
+![picture](/src/images/copter-home.png)
 
 A twist on the classic Helicopter Game built using Java Swing in fulfilment
 of a project for Tufts COMP 86 - Graphical User Interfaces. In this take of the Helicopter Game, the helicopter has to dodge lazers in addition to the obstacle it typically faces. Every few minutes, the difficulty level increases, as you are ambushed with lazers faster and faster.
@@ -11,6 +11,18 @@ The prime purpose was to create a simulation based GUI software to explore
 OOP. This project proved to be an exploration into making intuitive and usable 
 user interfaces, as well as a walk down memory lane that allowed me to 
 re-create one of the iconic games of my childhood.
+
+# How To Run
+To compile, go to the project root directory and type:
+`javac -d bin src/*.java`
+
+To run the game, go to the directory bin and type:
+`cd bin`
+`java Game`
+
+Click the mouse to make the helicopter fly, or do nothing to let it fall!
+
+![picture](/src/CopterCrash-demo.gif)
 
 # Project Features
 
