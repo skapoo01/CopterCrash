@@ -22,7 +22,7 @@ To run the game, go to the directory bin and type:
 
 Click the mouse to make the helicopter fly, or do nothing to let it fall!
 
-![picture](/src/CopterCrash-demo.gif)
+![picture](CopterCrash-demo.gif)
 
 # Project Features
 
